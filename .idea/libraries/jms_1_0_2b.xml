@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jms-1.0.2b">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Downloads/jms-1.0.2b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

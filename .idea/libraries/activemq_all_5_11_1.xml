@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="activemq-all-5.11.1">
+    <CLASSES>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/activemq-all-5.11.1.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/activemq-spring-5.14.1.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/jms-api-1.1-rev-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/activemq-jms-pool-5.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
